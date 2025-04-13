@@ -38,6 +38,7 @@ int main(){
     cin >> N;
 
     Node* root = nullptr;
+    
     for(int i = 0; i < N; i++){
         int value;
         cin >> value;
